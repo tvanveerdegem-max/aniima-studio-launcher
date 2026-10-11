@@ -8,13 +8,14 @@
   },
   "games": [
     {
+      "downloadUrl": "https://github.com/tvanveerdegem-max/Anima-Game/releases/download/vdv/AnimaGame.zip",
+      "genres": [],
       "id": "new-game-rq2s",
-      "title": "New Game",
       "tagline": "",
+      "title": "Spike",
       "type": "download",
       "version": "1.0.0",
-      "genres": [],
-      "downloadUrl": "https://github.com/tvanveerdegem-max/Anima-Game/releases/download/vdv/AnimaGame.zip"
+      "cover": "https://raw.githubusercontent.com/tvanveerdegem-max/aniima-studio-launcher/main/assets/numérisé_20261011-1437-01-92493.jpg"
     }
   ],
   "minimizeOnPlay": false,

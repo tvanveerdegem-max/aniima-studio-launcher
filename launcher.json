@@ -1,0 +1,29 @@
+{
+  "brand": {
+    "discord": "",
+    "logo": "",
+    "name": "Aniima studio",
+    "tagline": "Your games, one launcher",
+    "website": ""
+  },
+  "games": [
+    {
+      "downloadUrl": "https://github.com/tvanveerdegem-max/Anima-Game/releases/download/vdv/AnimaGame.zip",
+      "genres": [],
+      "id": "new-game-1xlc",
+      "tagline": "",
+      "title": "New Game",
+      "type": "download",
+      "version": "1.0.0"
+    }
+  ],
+  "minimizeOnPlay": false,
+  "news": [],
+  "remoteConfig": "https://raw.githubusercontent.com/tvanveerdegem-max/aniima-studio-launcher/main/launcher.json",
+  "studio": false,
+  "theme": {
+    "accent": "#2fd27a",
+    "accent2": "#00c2ff",
+    "background": "#08100c"
+  }
+}

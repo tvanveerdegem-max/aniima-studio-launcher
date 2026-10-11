@@ -2,19 +2,19 @@
   "brand": {
     "discord": "",
     "logo": "",
-    "name": "Aniima studio",
+    "name": "Your Studio",
     "tagline": "Your games, one launcher",
     "website": ""
   },
   "games": [
     {
-      "downloadUrl": "https://github.com/tvanveerdegem-max/Anima-Game/releases/download/vdv/AnimaGame.zip",
-      "genres": [],
-      "id": "new-game-1xlc",
-      "tagline": "",
+      "id": "new-game-rq2s",
       "title": "New Game",
+      "tagline": "",
       "type": "download",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "genres": [],
+      "downloadUrl": "https://github.com/tvanveerdegem-max/Anima-Game/releases/download/vdv/AnimaGame.zip"
     }
   ],
   "minimizeOnPlay": false,
@@ -22,8 +22,8 @@
   "remoteConfig": "https://raw.githubusercontent.com/tvanveerdegem-max/aniima-studio-launcher/main/launcher.json",
   "studio": false,
   "theme": {
-    "accent": "#2fd27a",
-    "accent2": "#00c2ff",
-    "background": "#08100c"
+    "accent": "#4f8cff",
+    "accent2": "#7b5cff",
+    "background": "#0b0c12"
   }
 }

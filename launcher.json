@@ -1,9 +1,9 @@
 {
   "brand": {
     "discord": "",
-    "logo": "",
-    "name": "Your Studio",
-    "tagline": "Your games, one launcher",
+    "logo": "https://raw.githubusercontent.com/tvanveerdegem-max/aniima-studio-launcher/main/assets/numérisé_20261011-1437-02-16383.jpg",
+    "name": "Aniima Studio",
+    "tagline": "Pour vous sevire ",
     "website": ""
   },
   "games": [
@@ -23,8 +23,8 @@
   "remoteConfig": "https://raw.githubusercontent.com/tvanveerdegem-max/aniima-studio-launcher/main/launcher.json",
   "studio": false,
   "theme": {
-    "accent": "#4f8cff",
-    "accent2": "#7b5cff",
-    "background": "#0b0c12"
+    "accent": "#ff2a4a",
+    "accent2": "#ff8a2a",
+    "background": "#0a0b0f"
   }
 }

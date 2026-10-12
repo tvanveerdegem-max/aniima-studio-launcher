@@ -8,6 +8,15 @@
   },
   "games": [
     {
+      "id": "new-game-hujk",
+      "title": "New Game",
+      "tagline": "",
+      "type": "download",
+      "version": "1.0.0",
+      "genres": [],
+      "downloadUrl": "https://github.com/tvanveerdegem-max/Anima-Game/releases/download/vdv/Jeux.zip"
+    },
+    {
       "cover": "https://raw.githubusercontent.com/tvanveerdegem-max/aniima-studio-launcher/main/assets/numérisé_20261011-1437-01-92493.jpg",
       "downloadUrl": "https://github.com/tvanveerdegem-max/Anima-Game/releases/download/vdv/AnimaGame.zip",
       "genres": [],
